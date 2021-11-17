@@ -26,6 +26,6 @@ You can see what I am currently up to on [Yaser Ahmadi][1].
 </a>
 
 ## &#x1f4c8; My Codewars state
-![codwars](https://www.codewars.com/users/yaserahmadi/badges/large)
+![codwars](https://www.codewars.com/users/yaserahmadi/badges/small)
 
 [1]:https://yaser.vercel.app/#/
