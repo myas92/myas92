@@ -25,7 +25,10 @@ You can see what I am currently up to on [Yaser Ahmadi][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=myas92&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="myas92's GitHub Stats" />
 </a>
 
-## &#x1f4c8; My Codewars state
+## &#x1f4c8; My state
 ![codwars](https://www.codewars.com/users/yaserahmadi/badges/small)
+<br>
+[![Codepen](https://img.shields.io/badge/Stackoverflow%20Reputation%20-3.4K-orange)](https://stackoverflow.com/users/9689193/yaser-ahmadi)
+<br>
 
 [1]:https://yaser.vercel.app/#/
