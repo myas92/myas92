@@ -1,16 +1,31 @@
-### Hi there 👋
+Hey 👋🏻,
 
-<!--
-**myas92/myas92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am full-stack javascript developer and Software Engineer, 
+I am interested in develop software solutions using JavaScript, TypeScript, ReactJS, and NodeJS.
 
-Here are some ideas to get you started:
+You can see what I am currently up to on [Yaser Ahmadi][1].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Get in touch
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Yaser%20Ahmadi-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mohammadyaserahmadi/)
+<br>
+[![Mail](https://img.shields.io/badge/Gmail-m.y.ahmadi22@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:m.y.ahmadi22@gmail.com)
+<br>
+[![Codepen](https://img.shields.io/badge/Codewars-Yaser%20Ahmadi-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/yaserahmadi)
+<br>
+[![Codepen](https://img.shields.io/badge/Stackoverflow-Yaser%20Ahmadi-FE7A16?logo=stack-overflow&logoColor=FE7A16&labelColor=black)](https://stackoverflow.com/users/9689193/yaser-ahmadi)
+<br>
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/myas92/myas92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myas92&hide=java,html&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/myas92/myas92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=myas92&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="myas92's GitHub Stats" />
+</a>
+
+## &#x1f4c8; My Codewars state
+![codwars](https://www.codewars.com/users/yaserahmadi/badges/large)
+
+[1]:https://yaser.vercel.app/#/
