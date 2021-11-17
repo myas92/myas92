@@ -21,13 +21,16 @@ You can see what I am currently up to on [Yaser Ahmadi][1].
 ![codwars](https://www.codewars.com/users/yaserahmadi/badges/small)
 
 ### GitHub
-<a href="https://github.com/myas92/myas92">
+<p align='center'>
+  <a href="https://github.com/myas92/myas92">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myas92&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/myas92/myas92">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=myas92&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="myas92's GitHub Stats" />
 </a>
+ </p>
+
 
 
 [1]:https://yaser.vercel.app/#/
