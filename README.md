@@ -20,6 +20,10 @@ You can see what I am currently up to on [Yaser Ahmadi][1].
 <br>
 ![codwars](https://www.codewars.com/users/yaserahmadi/badges/small)
 
+### My NPM modules
+[domain finder](https://www.npmjs.com/package/domain-finder)
+[shamsi holidays](https://www.npmjs.com/package/shamsi-holidays)
+
 ### GitHub
 <p align='center'>
   <a href="https://github.com/myas92/myas92">
