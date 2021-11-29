@@ -18,9 +18,9 @@ You can see what I am currently up to on [Yaser Ahmadi][1].
 
 ## NPM modules
 
-[domain finder](https://www.npmjs.com/package/domain-finder)
+[Domain finder](https://www.npmjs.com/package/domain-finder)
 
-[shamsi holidays](https://www.npmjs.com/package/shamsi-holidays)
+[Shamsi holidays](https://www.npmjs.com/package/shamsi-holidays)
 
 
 ## &#x1f4c8; My Stats
