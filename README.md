@@ -22,7 +22,6 @@ You can see what I am currently up to on [Yaser Ahmadi][1].
 
 [Shamsi holidays](https://www.npmjs.com/package/shamsi-holidays)
 
-
 ## &#x1f4c8; My Stats
 [![Codepen](https://img.shields.io/badge/Stackoverflow%20Reputation%20-3.4K-orange)](https://stackoverflow.com/users/9689193/yaser-ahmadi)
 <br>
