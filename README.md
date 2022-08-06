@@ -3,8 +3,6 @@
 I am a full-stack javascript developer and Software Engineer, 
 I am interested in develop software solutions using JavaScript, TypeScript, ReactJS, and NodeJS.
 
-
-
 You can see what I am currently up to on [Mohammad Yaser Ahmadi][1].
 
 ## 📬 Get in touch
@@ -24,12 +22,6 @@ You can see what I am currently up to on [Mohammad Yaser Ahmadi][1].
 [Domain finder](https://www.npmjs.com/package/domain-finder)
 
 [Shamsi holidays](https://www.npmjs.com/package/shamsi-holidays)
-
-## &#x1f4c8; My Stats
-[![Codepen](https://img.shields.io/badge/Stackoverflow%20Reputation%20-3.4K-orange)](https://stackoverflow.com/users/9689193/yaser-ahmadi)
-<br>
-![codwars](https://www.codewars.com/users/yaserahmadi/badges/small)
-
 
 ### GitHub
 <p align='center'>
