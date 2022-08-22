@@ -1,6 +1,6 @@
 **Hey, I'm Mohammad Yaser** 👋🏻
 
-I am a full-stack javascript developer and Software Engineer, 
+I am a full-stack developer and Software Engineer, 
 I am interested in develop software solutions using JavaScript, TypeScript, ReactJS, and NodeJS.
 
 You can see what I am currently up to on [Mohammad Yaser Ahmadi][1].
