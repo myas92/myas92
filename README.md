@@ -30,7 +30,8 @@ My [Medium account](https://myas92.medium.com) to reading articles about Node.js
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=myas92&show_icons=true&theme=transparent" />
 </a>
 
-<a href="https://github.com/myas92/myas92">
+<!-- <a href="https://github.com/myas92/myas92">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
  </p>
+ -->
