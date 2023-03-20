@@ -5,7 +5,6 @@ I am interested in develop software solutions using JavaScript, TypeScript, Reac
 
 
 
-
 My [Medium account](https://myas92.medium.com) to reading articles about Node.js and javascript and ...
 
 
