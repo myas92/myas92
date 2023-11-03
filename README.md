@@ -3,9 +3,9 @@
 
 
 I am a Senior Full-Stack Developer and Software Engineer, 
-I am interested in develop software solutions using JavaScript, TypeScript, ReactJS, Angular, and NodeJS (ExpressJS and NestJS).
+I am interested in developing software solutions using JavaScript, TypeScript, ReactJS, Angular, and NodeJS (ExpressJS and NestJS).
 
-My [Medium account](https://myas92.medium.com) to reading articles about Node.js and javascript and ...
+My [Medium account](https://myas92.medium.com) to read articles about Node.js and javascript and ...
 
 
 
